@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg6" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.3;fill:#141414;enable-background:new    ;}
+	.st1{fill:url(#rect1045_00000073682683836470606620000014321811119214236834_);}
+	.st2{fill:#FF3232;}
+	.st3{fill:#5E4AA6;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#5E4AA6;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview8" inkscape:current-layer="svg6" inkscape:cx="5.4412652" inkscape:cy="54.292904" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="932" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="3.1875" objecttolerance="10" pagecolor="#c8c8c8" showgrid="false">
+	</sodipodi:namedview>
+<path id="rect1055-9" class="st0" d="M19.5,4.5h25c8.3,0,15,6.7,15,15v25c0,8.3-6.7,15-15,15h-25c-8.3,0-15-6.7-15-15v-25
+	C4.5,11.2,11.2,4.5,19.5,4.5z"/>
+<linearGradient id="rect1045_00000106850384217089195050000018060996855777462965_" gradientUnits="userSpaceOnUse" x1="-131.4942" y1="-0.6142" x2="-67.4942" y2="63.3858" gradientTransform="matrix(1 0 0 -1 131.5 63.38)">
+	<stop  offset="0" style="stop-color:#DEE0E2"/>
+	<stop  offset="1" style="stop-color:#F1F3F5;stop-opacity:0.9961"/>
+</linearGradient>
+<path id="rect1045" style="fill:url(#rect1045_00000106850384217089195050000018060996855777462965_);" d="M17.5,0h29.1
+	C56.2,0,64,7.8,64,17.5v29.1C64,56.2,56.2,64,46.5,64H17.5C7.8,64,0,56.2,0,46.5V17.5C0,7.8,7.8,0,17.5,0z"/>
+<path id="rect886" class="st2" d="M32.1,14.4c-6.2,0-12.4,0.2-18.2,0.6c-3.6,0.4-6,4.8-6.3,8.1C7,30,7,34,7.6,40.9
+	c0.3,3.3,2.7,7.7,6.3,8.1c11.7,0.8,25,0.9,36.2,0c3.5-0.6,6-4.8,6.3-8.1c0.6-6.9,0.6-11.3,0-18.3v0c-0.3-3.3-2.2-7.5-6.3-7.6
+	C44.5,14.6,38.3,14.4,32.1,14.4z M25.8,23l15.5,8.9l-15.5,8.9V23z"/>
+<rect id="circle844" x="-1248.7" y="-1241.6" class="st3" width="0" height="0"/>
+<rect id="ellipse846" x="-149.1" y="23.9" class="st4" width="0" height="0"/>
+<rect id="circle41" x="-1163.3" y="-1241.6" class="st3" width="0" height="0"/>
+<rect id="circle43" x="-63.8" y="23.9" class="st4" width="0" height="0"/>
+</svg>
