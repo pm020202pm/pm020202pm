@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://github.com/pm020202pm/pm020202pm/blob/main/c%20plus%20plus.svg" alt="cplusplus" width="40" height="40"/>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://github.com/pm020202pm/pm020202pm/blob/main/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/pm020202pm/pm020202pm/blob/main/html5.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
